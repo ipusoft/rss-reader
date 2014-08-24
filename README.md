@@ -8,3 +8,4 @@ Usage:
 
 - Set up java and maven
 - mvn jetty:run
+- Web page is available at the http://localhost:8080/rss
